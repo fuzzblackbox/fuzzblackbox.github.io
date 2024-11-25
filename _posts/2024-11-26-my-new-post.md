@@ -4,7 +4,7 @@ title: "My New Post"
 date: 2024-11-26
 categories: [Category1, Category2]
 tags: [Tag1, Tag2]
-author: "Your Name"
+author: "FuzzBlackbox"
 published: true
 ---
 This is the content of my new post.
