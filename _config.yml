@@ -214,7 +214,7 @@ exclude:
   - LICENSE
   - "*.config.js"
   - package*.json
-
+future: true
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
