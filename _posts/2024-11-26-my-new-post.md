@@ -2,7 +2,7 @@
 layout: post
 title: "My New Post"
 date: 2024-11-26
-categories: ["web development", "C++","Programming"]
+categories: ["web development", "javascript","Programming"]
 tags: [Tag1, Tag2]
 author: "FuzzBlackbox"
 published: true
