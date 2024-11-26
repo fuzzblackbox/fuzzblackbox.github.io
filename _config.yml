@@ -165,6 +165,9 @@ kramdown:
       start_line: 1
 
 collections:
+categories:
+    output: true
+permalink: /:categories/:title/
   tabs:
     output: true
     sort_by: order
