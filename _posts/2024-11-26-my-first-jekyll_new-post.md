@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My First Jekyll Post"
-date: 2024-11-26 10:00:00 +0000
+date: 2024-11-26 15:12:00 +0000
 categories: c++
 tags: [jekyll, tutorial]
 ---
