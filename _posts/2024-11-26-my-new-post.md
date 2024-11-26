@@ -3,7 +3,8 @@ layout: post
 title: "My New Post"
 date: 2024-11-26
 categories:
--Programming
+  - Programming
+
 tags: [Tag1, Tag2]
 author: "FuzzBlackbox"
 published: true
