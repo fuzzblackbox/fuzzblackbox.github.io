@@ -7,7 +7,7 @@ timezone: # Set your timezone, e.g., "America/New_York"
 
 # Site metadata
 title: FuzzBlackbox
-tagline: Learn, Share, Innovate
+tagline: Learn. Share. Learn Again.
 description: >-
   Welcome to FuzzBlackbox, your resource for knowledge and innovation.
 url: "" # Add your site URL without trailing slash, e.g., "https://username.github.io"
@@ -20,8 +20,8 @@ twitter:
   username: twitter_username
 
 social:
-  name: Your Full Name
-  email: example@domain.com
+  name: Fuzzblackbox
+  email: stillnot
   links:
     - https://twitter.com/username
     - https://github.com/username
@@ -46,7 +46,8 @@ theme_mode: dark # Choose between "light", "dark", or leave empty for system def
 
 # Media settings
 cdn: # Add your CDN URL if used
-avatar: # Add the avatar image URL or leave blank
+avatar: /assets/images/blackbox.jpg
+ #avatar: # Add the avatar image URL or leave blank
 social_preview_image: # Add a URL for the site's social preview image
 
 # Table of contents global setting
